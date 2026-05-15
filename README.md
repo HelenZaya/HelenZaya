@@ -1,18 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=80&section=header" width="100%"/>
-
 <div align="center">
-  <table border="0" cellpadding="18">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="hz-logo.png" height="140" alt="HZ Logo"/>
-      </td>
-      <td align="left" valign="middle">
-        <h1>BUYANZAYA SHIJIR</h1>
-        <h3>✨ HelenZaya</h3>
-        <p><b>Senior Full-Stack Engineer &nbsp;|&nbsp; SaaS Architect &nbsp;|&nbsp; AI Systems Developer</b></p>
-      </td>
-    </tr>
-  </table>
+  <img src="banner-hz.png" width="100%" alt="BUYANZAYA SHIJIR — HelenZaya"/>
 </div>
 
 <div align="center">
