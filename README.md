@@ -203,6 +203,7 @@ Professional landing page · Project showcase · Contact form integration
 | ⚡ Zenith Task Manager | [![](https://img.shields.io/badge/Live_Demo-f59e0b?style=flat-square&logo=vercel&logoColor=white)](https://zenith-task-manager-six.vercel.app/) | [zenith-task-manager-six.vercel.app](https://zenith-task-manager-six.vercel.app/) |
 | 📖 Manga Vault Platform | [![](https://img.shields.io/badge/Live_Demo-ef4444?style=flat-square&logo=vercel&logoColor=white)](https://web-task-manga-4-15.vercel.app/) | [web-task-manga-4-15.vercel.app](https://web-task-manga-4-15.vercel.app/) |
 | 📋 Multi Tenant Task Manager | [![](https://img.shields.io/badge/Live_Demo-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://frontend-orpin-five-38.vercel.app/) | [frontend-orpin-five-38.vercel.app](https://frontend-orpin-five-38.vercel.app/) |
+| 🔷 Zenith Multi Tenant Task Manager | [![Live Demo](https://img.shields.io/badge/Live_Demo-3b82f6?style=flat-square&logo=vercel&logoColor=white)](https://frontend-orpin-five-38.vercel.app/) | [frontend-orpin-five-38.vercel.app](https://frontend-orpin-five-38.vercel.app/) |
 
 <br/>
 
