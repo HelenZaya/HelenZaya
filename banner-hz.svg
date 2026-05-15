@@ -12,9 +12,25 @@
   <!-- Gradient background -->
   <rect width="1200" height="220" fill="url(#bg)"/>
 
-  <!-- Animated wave (white, seamless loop) -->
+  <!-- Wave layer 1 — back, semi-transparent, slow -->
   <g clip-path="url(#clip)">
-    <path d="M0,185 C200,162 400,208 600,185 C800,162 1000,208 1200,185 C1400,162 1600,208 1800,185 C2000,162 2200,208 2400,185 L2400,220 L0,220 Z" fill="white">
+    <path d="M0,168 C200,148 400,188 600,168 C800,148 1000,188 1200,168 C1400,148 1600,188 1800,168 C2000,148 2200,188 2400,168 L2400,220 L0,220 Z" fill="white" opacity="0.35">
+      <animateTransform attributeName="transform" type="translate"
+                        from="0,0" to="-600,0"
+                        dur="12s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <!-- Wave layer 2 — mid, more opaque, medium speed -->
+  <g clip-path="url(#clip)">
+    <path d="M0,178 C200,158 400,198 600,178 C800,158 1000,198 1200,178 C1400,158 1600,198 1800,178 C2000,158 2200,198 2400,178 L2400,220 L0,220 Z" fill="white" opacity="0.60">
+      <animateTransform attributeName="transform" type="translate"
+                        from="-300,0" to="-900,0"
+                        dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <!-- Wave layer 3 — front, fully white, faster -->
+  <g clip-path="url(#clip)">
+    <path d="M0,190 C200,170 400,210 600,190 C800,170 1000,210 1200,190 C1400,170 1600,210 1800,190 C2000,170 2200,210 2400,190 L2400,220 L0,220 Z" fill="white" opacity="1">
       <animateTransform attributeName="transform" type="translate"
                         from="0,0" to="-600,0"
                         dur="8s" repeatCount="indefinite"/>
