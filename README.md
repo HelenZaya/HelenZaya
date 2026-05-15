@@ -2,6 +2,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=240&section=header&text=BUYANZAYA%20SHIJIR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Engineer%20%7C%20SaaS%20Architect%20%7C%20AI%20Systems%20Developer&descAlignY=58&descColor=e8e0ff&descSize=17" width="100%"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="middle" align="center" width="140">
+        <img src="hz-logo.png" height="120" alt="HZ Logo"/>
+      </td>
+      <td valign="middle" align="left" style="padding-left: 20px">
+        <h2>Hi, I'm <strong>BUYANZAYA SHIJIR</strong></h2>
+        <p>People call me <strong>HelenZaya</strong> 💙</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
   <a href="mailto:mrs.buyanzaya@gmail.com">
     <img src="https://img.shields.io/badge/mrs.buyanzaya@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
