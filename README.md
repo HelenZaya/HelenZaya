@@ -191,6 +191,17 @@ Professional landing page · Project showcase · Contact form integration
 
 ---
 
+## 💠 Project Links
+
+| Project | Live Demo |
+|---------|-----------|
+| 🥇 HelenZaya Enterprise System | [![](https://img.shields.io/badge/Live_Demo-667eea?style=flat-square&logo=vercel&logoColor=white)](https://5-08-helenzaya-enterprise-diploma.vercel.app) |
+| 🛒 Mini E-Commerce Capstone | [![](https://img.shields.io/badge/Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://mini-ecommerce-capstone-project-1226.vercel.app/) |
+| ⚡ Zenith Task Manager | [![](https://img.shields.io/badge/Live_Demo-f59e0b?style=flat-square&logo=vercel&logoColor=white)](https://zenith-task-manager-six.vercel.app/) |
+| 📖 Manga Vault Platform | [![](https://img.shields.io/badge/Live_Demo-ef4444?style=flat-square&logo=vercel&logoColor=white)](https://web-task-manga-4-15.vercel.app/) |
+| 🏙️ Smart City Dashboard | [![](https://img.shields.io/badge/Live_Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://smart-city-v2.vercel.app/admin/dashboard) |
+| 📋 Multi Tenant Task Manager | [![](https://img.shields.io/badge/Live_Demo-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://frontend-orpin-five-38.vercel.app/) |
+
 <br/>
 
 ## 🏗️ Architecture Experience
