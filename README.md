@@ -46,10 +46,10 @@ const BuyanzayaShijir = {
   achievements: {
     python_exam:  "98 / 100",
     react_exam:   "97 / 100",
-    mysql_exam:   "92 / 100",
     next_js:      "95 / 100",
+    mysql_exam:   "92 / 100",
     portfolio:    "19 / 20",
-    DevOps:       "20/ 20",
+    DevOps:       "20 / 20",
     recognition:  "🏆 Best Student Award",
   },
 
@@ -248,9 +248,9 @@ Professional landing page · Project showcase · Contact form integration
 
 <div align="center">
 
-| 🏆 Award | 📝 React Exam | 📝 MySQL Exam | 📊 Portfolio |
-|:---:|:---:|:---:|:---:|
-| **Best Student** | **97 / 100** | **92 / 100** | **19 / 20** |
+| 🏆 Award | 🐍 Python | ⚛️ React | 🔺 Next.js | 🗄️ MySQL | 📊 Portfolio | 🚀 DevOps |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Best Student** | **98 / 100** | **97 / 100** | **95 / 100** | **92 / 100** | **19 / 20** | **20 / 20** |
 
 </div>
 
