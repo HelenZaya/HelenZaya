@@ -44,9 +44,12 @@ const BuyanzayaShijir = {
   languages:     ["Mongolian 🇲🇳 (Native)", "English 🇺🇸 (Advanced Technical)"],
 
   achievements: {
+    python_exam:  "98 / 100",
     react_exam:   "97 / 100",
     mysql_exam:   "92 / 100",
+    next_js:      "95 / 100",
     portfolio:    "19 / 20",
+    DevOps:       "20/ 20",
     recognition:  "🏆 Best Student Award",
   },
 
