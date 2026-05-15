@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner-hz.png" width="100%" alt="BUYANZAYA SHIJIR — HelenZaya"/>
+  <img src="banner-hz.svg" width="100%" alt="BUYANZAYA SHIJIR — HelenZaya"/>
 </div>
 
 <div align="center">
