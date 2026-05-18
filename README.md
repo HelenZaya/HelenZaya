@@ -24,6 +24,43 @@
 
 ---
 
+## 👩‍💻 About Me
+
+```typescript
+const BuyanzayaShijir = {
+  alias:       "HelenZaya",
+  role:        "Senior Full-Stack Engineer | SaaS Architect | AI Systems Developer",
+  location:    "Ulaanbaatar, Mongolia 🇲🇳",
+
+  expertise: [
+    "Multi-tenant SaaS Architecture",
+    "Enterprise Dashboard Systems",
+    "CRM Platform Engineering",
+    "AI-Integrated Applications",
+    "Full Lifecycle Development",   // architecture → deployment
+  ],
+
+  architectures: ["Monolithic Full-stack", "Monorepo + Turborepo", "Traditional Microservice"],
+  languages:     ["Mongolian 🇲🇳 (Native)", "English 🇺🇸 (Advanced Technical)"],
+
+  achievements: {
+    python_exam:  "98 / 100",
+    react_exam:   "97 / 100",
+    next_js:      "95 / 100",
+    mysql_exam:   "92 / 100",
+    portfolio:    "19 / 20",
+    DevOps:       "20 / 20",
+    recognition:  "🏆 Best Student Award",
+  },
+
+  philosophy: "Build systems that scale — not just code that runs.",
+};
+```
+
+<br/>
+
+---
+
 ## 💠 Project Links
 
 | Project | Live Demo | URL |
@@ -217,7 +254,6 @@ Professional landing page · Project showcase · Contact form integration
 
 **Full-Stack Software Engineering Diploma**
 Focus: Frontend · Backend · Database Systems · Docker · Next.js App Router · Enterprise SaaS Architecture
-location:    "Ulaanbaatar, Mongolia
 
 <br/>
 
