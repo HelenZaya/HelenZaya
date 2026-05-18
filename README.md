@@ -24,6 +24,38 @@
 
 ---
 
+## 💠 Project Links
+
+| Project | Live Demo | URL |
+|---------|-----------|-----|
+| 🥇 HelenZaya Enterprise System | [![](https://img.shields.io/badge/Live_Demo-667eea?style=flat-square&logo=vercel&logoColor=white)](https://5-08-helenzaya-enterprise-diploma.vercel.app) | [5-08-helenzaya-enterprise-diploma.vercel.app](https://5-08-helenzaya-enterprise-diploma.vercel.app) |
+| 🛒 Mini E-Commerce Capstone | [![](https://img.shields.io/badge/Live_Demo-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://mini-ecommerce-capstone-project-1226.vercel.app/) | [mini-ecommerce-capstone-project-1226.vercel.app](https://mini-ecommerce-capstone-project-1226.vercel.app/) |
+| ⚡ Zenith Task Manager | [![](https://img.shields.io/badge/Live_Demo-f59e0b?style=flat-square&logo=vercel&logoColor=white)](https://zenith-task-manager-murex.vercel.app/) | [zenith-task-manager-murex.vercel.app](https://zenith-task-manager-murex.vercel.app/) |
+| 📖 Manga Vault Platform | [![](https://img.shields.io/badge/Live_Demo-ef4444?style=flat-square&logo=vercel&logoColor=white)](https://web-task-manga-4-15.vercel.app/) | [web-task-manga-4-15.vercel.app](https://web-task-manga-4-15.vercel.app/) |
+| 📋 Multi Tenant Task Manager | [![](https://img.shields.io/badge/Live_Demo-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://frontend-orpin-five-38.vercel.app/) | [frontend-orpin-five-38.vercel.app](https://frontend-orpin-five-38.vercel.app/) |
+| 🔷 Zenith Multi Tenant Task Manager | [![Live Demo](https://img.shields.io/badge/Live_Demo-3b82f6?style=flat-square&logo=vercel&logoColor=white)](https://frontend-orpin-five-38.vercel.app/) | [frontend-orpin-five-38.vercel.app](https://frontend-orpin-five-38.vercel.app/) |
+
+<br/>
+
+## 🏗️ Architecture Experience
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                   ARCHITECTURAL STYLES EXPLORED                  │
+├──────────────────┬──────────────────────┬───────────────────────┤
+│  TRADITIONAL     │  MODERN MONOLITH     │  ENTERPRISE MONOREPO  │
+│  Enterprise      │  Full-stack SaaS     │  Turborepo            │
+│─────────────────│──────────────────────│───────────────────────│
+│  React/Vite      │  Next.js App Router  │  apps/web             │
+│  Express REST    │  Server Actions      │  apps/api             │
+│  Docker multi-   │  Unified deployment  │  packages/ui          │
+│  container       │  Production-ready    │  packages/db          │
+│  NGINX proxy     │  SaaS-oriented       │  packages/types       │
+└──────────────────┴──────────────────────┴───────────────────────┘
+```
+
+<br/>
+
 ## 👩‍💻 About Me
 
 ```typescript
