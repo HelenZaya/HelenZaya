@@ -24,6 +24,22 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HelenZaya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&rank_icon=github"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenZaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=HelenZaya&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=764ba2"/>
+</div>
+
+<br/>
+
+---
+
 ## 👩‍💻 About Me
 
 ```typescript
@@ -223,22 +239,6 @@ Professional landing page · Project showcase · Contact form integration
 │  NGINX proxy     │  SaaS-oriented       │  packages/types       │
 └──────────────────┴──────────────────────┴───────────────────────┘
 ```
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HelenZaya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&rank_icon=github"/>
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenZaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=HelenZaya&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=764ba2"/>
-</div>
 
 <br/>
 
