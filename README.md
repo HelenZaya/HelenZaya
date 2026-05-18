@@ -43,7 +43,17 @@ const BuyanzayaShijir = {
   architectures: ["Monolithic Full-stack", "Monorepo + Turborepo", "Traditional Microservice"],
   languages:     ["Mongolian 🇲🇳 (Native)", "English 🇺🇸 (Advanced Technical)"],
 
-    philosophy: "Build systems that scale — not just code that runs.",
+  achievements: {
+    python_exam:  "98 / 100",
+    react_exam:   "97 / 100",
+    next_js:      "95 / 100",
+    mysql_exam:   "92 / 100",
+    portfolio:    "19 / 20",
+    DevOps:       "20 / 20",
+    recognition:  "🏆 Best Student Award",
+  },
+
+  philosophy: "Build systems that scale — not just code that runs.",
 };
 ```
 
