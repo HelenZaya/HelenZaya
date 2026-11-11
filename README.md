@@ -29,7 +29,7 @@
 ```typescript
 const BuyanzayaShijir = {
   alias:       "HelenZaya",
-  role:        "Full-Stack Engineer | SaaS Architect | AI Systems Developer",
+  role:        "Full-Stack Software Engineer | SaaS Architect | AI Systems Developer",
   location:    "Ulaanbaatar, Mongolia 🇲🇳",
 
   expertise: [
